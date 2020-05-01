@@ -1,0 +1,1 @@
+web: java -jar "build/google-drive-ftp-adapter-jar-with-dependencies.jar"
